@@ -1,0 +1,17 @@
+{
+  "name": "awesome-cn",
+  "description": "Awesome Chinese Translation Projects",
+  "scripts": {
+    "test": "awesome-lint",
+    "toc": "doctoc README.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.1.0",
+    "doctoc": "^1.3.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:willin/awesome-cn.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "MIT"
+}
