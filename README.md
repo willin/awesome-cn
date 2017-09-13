@@ -31,6 +31,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Javascript
 
+- [Anime-js](http://animejs.com/) - 项目： [juliangarnier/anime](https://github.com/juliangarnier/anime)
 - [LiveScript](http://livescript.net/) - 项目: [gkz/LiveScript](https://github.com/gkz/LiveScript)
 
 
