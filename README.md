@@ -25,13 +25,13 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### 编程语言 | Programming Lanuages
 
+- [Anime-js](http://anime.js.cool/) - 项目： [js-cool/anime.js.cool](https://github.com/js-cool/anime.js.cool)
 - [GraphQL](https://graphql.js.cool/) - 项目: [willin/graphql.js.cool](https://github.com/willin/graphql.js.cool)
 
 ## 未翻译项目 | To be translated
 
 ### Javascript
 
-- [Anime-js](http://animejs.com/) - 项目： [juliangarnier/anime](https://github.com/juliangarnier/anime)
 - [LiveScript](http://livescript.net/) - 项目: [gkz/LiveScript](https://github.com/gkz/LiveScript)
 
 
